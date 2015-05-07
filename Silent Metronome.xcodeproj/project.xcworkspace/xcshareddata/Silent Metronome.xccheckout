@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1D15CBE9-BB26-4598-BDF7-D257DEDEB491</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Silent Metronome</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BD72BF6AC0EB515025D58359D1BF931DC585D41C</key>
+		<string>https://github.com/gigwatts/SilentMetronome.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Silent Metronome.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BD72BF6AC0EB515025D58359D1BF931DC585D41C</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/gigwatts/SilentMetronome.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BD72BF6AC0EB515025D58359D1BF931DC585D41C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BD72BF6AC0EB515025D58359D1BF931DC585D41C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SilentMetronome</string>
+		</dict>
+	</array>
+</dict>
+</plist>
