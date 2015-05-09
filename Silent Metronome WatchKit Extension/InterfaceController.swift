@@ -28,4 +28,17 @@ class InterfaceController: WKInterfaceController {
         super.didDeactivate()
     }
 
+    
+    
+    @IBOutlet weak var tempoDisplayWatch: WKInterfaceLabel!
+    
+    
+    
+    @IBAction func toggleBeatWatchButton() {
+        
+        tempoDisplayWatch.setText("Tapping!")
+    }
+    
+    
+    
 }
